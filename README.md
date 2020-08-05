@@ -44,7 +44,11 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" />
+## &#x1f4c8; My GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echobots&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" />
 
 [website]: https://echobots.net
 [youtube]: https://youtube.com/echobots
