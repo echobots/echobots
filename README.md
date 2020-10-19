@@ -1,14 +1,14 @@
-### Hi there, I'm Naufal Shidqi [ECHOBOTS][website] 👋
+### Hi there, I'm Naufal Shidqi [INDOIT][website] 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on a [ECHOBOTS][website]!
+- 🔭 I’m currently working on a [INDOIT][website]!
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
 
-[<img align="left" alt="echobots.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="indoit.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://www.echobots.net)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://www.echobots.net)
-- [Regular Expressions (RegEx) Crash Course](https://www.echobots.net)
-- [Emmet Part 2 - Advanced](https://www.echobots.net)
-- [Deno 1.0 Released! (Easy) REST API Example](https://www.echobots.net)
+- [Microinteractions: Password Validation Animation](https://www.indoit.net)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://www.indoit.net)
+- [Regular Expressions (RegEx) Crash Course](https://www.indoit.net)
+- [Emmet Part 2 - Advanced](https://www.indoit.net)
+- [Deno 1.0 Released! (Easy) REST API Example](https://www.indoit.net)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -50,6 +50,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" />
 
-[website]: https://echobots.net
+[website]: https://indoit.net
 [youtube]: https://youtube.com/echobots
 [instagram]: https://instagram.com/andbukanad
