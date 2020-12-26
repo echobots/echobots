@@ -46,9 +46,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echobots&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echobots&show_icons=true&hide_border=true&hide=html,css,javascript" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" />
 
 [website]: https://indoit.net
 [youtube]: https://youtube.com/echobots
