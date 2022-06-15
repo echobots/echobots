@@ -1,4 +1,4 @@
-### Hi, I'm Naufal Shidqi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi, I'm Naufal Shidqi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" /> -->
 
