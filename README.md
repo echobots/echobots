@@ -1,69 +1,192 @@
-### Hi, I'm Naufal Shidqi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+# 👋 Hi, I'm Muhammad Naufal Shidqi
 
-## I'm a Student!
-
-- 🌱 I’m currently learning everything
-- ⚡ Fun fact: I love to play guitar
-
-<!-- ![My card name](https://cardivo.vercel.app/api?name=Naufal%20Shidqi&description=I%20have%20the%20ability%20to%20learn%20and%20adapt%20quickly%20and%20I%20love%20to%20take%20on%20challenges%20on%20and%20solving%20technical%20problems%20that%20can%20help%20me%20to%20improve%20myself%20to%20be%20better.%20I%20also%20have%20a%20great%20interest%20in%20the%20teamwork-based%20activity,%20and%20responsible%20for%20handling%20the%20technical%20tasks%20assigned%20to%20me.%20Most%20of%20what%20I%20do%20is%20build,%20develop,%20test%20web%20applications%20and%20web%20services.&image=https://avatars.githubusercontent.com/u/32919604&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
-
-**Founder at** [indoit](https://indoit.net)
-
-<details>
-  <summary>Show more</summary> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true" /> -->
-
-### Languages and Tools:
-
-![badge-python](https://img.shields.io/badge/python-f6c819?style=for-the-badge&logo=python&logoColor=white&labelColor=21223e)
-![badge-php](https://img.shields.io/badge/php-f6c819?style=for-the-badge&logo=php&logoColor=white&labelColor=21223e)
-
-![badge-flask](https://img.shields.io/badge/flask-f6c819?style=for-the-badge&logo=flask&logoColor=white&labelColor=21223e)
-![badge-fastapi](https://img.shields.io/badge/fastapi-f6c819?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=21223e)
-![badge-django](https://img.shields.io/badge/django-f6c819?style=for-the-badge&logo=django&logoColor=white&labelColor=21223e)
-![badge-laravel](https://img.shields.io/badge/laravel-f6c819?style=for-the-badge&logo=laravel&logoColor=white&labelColor=21223e)
-![badge-codeigniter](https://img.shields.io/badge/codeigniter-f6c819?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=21223e)
-
-![badge-postgresql](https://img.shields.io/badge/postgresql-f6c819?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=21223e)
-![badge-mysql](https://img.shields.io/badge/mysql-f6c819?style=for-the-badge&logo=mysql&logoColor=white&labelColor=21223e)
-
-![badge-docker](https://img.shields.io/badge/docker-f6c819?style=for-the-badge&logo=docker&logoColor=white&labelColor=21223e)
-![badge-do](https://img.shields.io/badge/digitalocean-f6c819?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=21223e)
-![badge-vscode](https://img.shields.io/badge/vscode-f6c819?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=21223e)
-![badge-git](https://img.shields.io/badge/git-f6c819?style=for-the-badge&logo=git&logoColor=white&labelColor=21223e)
-![badge-shell](https://img.shields.io/badge/zsh-f6c819?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=21223e)
-
-![badge-ubuntu](https://img.shields.io/badge/ubuntu-f6c819?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=21223e)
-![badge-mac](https://img.shields.io/badge/mac-f6c819?style=for-the-badge&logo=apple&logoColor=white&labelColor=21223e)
-![badge-windows](https://img.shields.io/badge/windows-f6c819?style=for-the-badge&logo=windows&logoColor=white&labelColor=21223e)
-
-<br />
-
-### Connect with me:
-
-<div>
-  <a href="mailto:naufalshidqi.fal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+<p align="left">
+  <a href="https://shidqi.com">
+    <img src="https://img.shields.io/badge/Website-shidqi.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://instagram.com/andbukanad" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://github.com/echobots">
+    <img src="https://img.shields.io/badge/GitHub-echobots-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[https://linkedin.com/in/akhmad-alwan-rabbani-b75467205](https://www.linkedin.com/in/m-naufal-shidqi/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</p>
+
+### Backend Engineer · System Architect · Technical Lead
+
+I build backends, system architectures, and distributed platforms from
+zero to production.
+
+My interests span **backend engineering, distributed systems, system
+architecture, workflow automation, DevOps, and AI-powered applications**.
+
+- 📍 Medan, Indonesia
+- 🏗️ Backend engineering & system architecture
+- ⚙️ Distributed systems & workflow automation
+- 🤖 AI, NLP & LLM-powered applications
+- ☁️ Docker, Kubernetes, CI/CD & cloud infrastructure
+- 🚀 Building reliable and production-ready systems
+- 🎸 Outside of tech, I enjoy playing guitar
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a backend-focused software engineer interested in designing,
+building, and maintaining production systems.
+
+I enjoy working on problems involving:
+
+- Backend architecture
+- Distributed systems
+- Microservices
+- RESTful APIs
+- Workflow automation
+- Background processing
+- Multi-tenant platforms
+- AI & NLP systems
+- Scientific computing
+- Infrastructure & DevOps
+
+I believe good software is not only about writing code,
+but also about designing systems that are **maintainable, scalable,
+observable, and reliable**.
+
+> Build systems. Solve problems. Ship to production.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Go-18181B?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-18181B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Django-18181B?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-18181B?style=for-the-badge&logo=codeigniter&logoColor=EF4223" alt="CodeIgniter"/>
+</p>
+
+### Architecture & Distributed Systems
+
+- Microservices
+- Clean Architecture
+- Distributed Systems
+- Scalable Backend Design
+- RESTful API Design
+- Task Queues
+- Job Scheduling
+- Workflow Automation
+- Background Processing
+- Multi-Tenant Architecture
+
+### Databases & Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-18181B?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MQTT-18181B?style=for-the-badge&logo=mqtt&logoColor=660066" alt="MQTT"/>
+</p>
+
+### DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-18181B?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-18181B?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Apache-18181B?style=for-the-badge&logo=apache&logoColor=D22128" alt="Apache"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-18181B?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-18181B?style=for-the-badge&logo=digitalocean&logoColor=0080FF" alt="DigitalOcean"/>
+</p>
+
+### AI, Data & Automation
+
+- LLM Integration
+- Natural Language Processing
+- scikit-learn
+- NLTK
+- Pandas
+- NumPy
+- Matplotlib
+- Playwright
+- Selenium
+- HTTPX
+- BeautifulSoup
+- WordPress REST API
+- Cloudflare API
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    alt="Naufal's GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=echobots&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=echobots&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://shidqi.com">
+    <img src="https://img.shields.io/badge/Website-shidqi.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-</div>
-<!-- [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-<br />
-<br />
+  <a href="mailto:naufal@shidqi.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
 
-<!-- ---
+  <a href="https://github.com/echobots">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-## &#x1f4c8; My GitHub Stats
+  <a href="https://www.linkedin.com/in/m-naufal-shidqi/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echobots&show_icons=true&hide_border=true&hide=html,css,javascript,shell" /> -->
+  <a href="https://instagram.com/andbukanad">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</p>
 
-[youtube]: https://youtube.com/echobots
-[instagram]: https://instagram.com/andbukanad
+---
+
+<p align="center">
+  <a href="https://shidqi.com">
+    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Build systems. Solve problems. Ship to production.</i>
+</p>
