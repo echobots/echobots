@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Muhammad Naufal Shidqi
+# 👋 Hi, I'm Naufal Shidqi
 
 <p align="left">
   <a href="https://shidqi.com">
     <img src="https://img.shields.io/badge/Website-shidqi.com-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://github.com/echobots">
-    <img src="https://img.shields.io/badge/GitHub-echobots-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://t.me/ShidqiCom">
+    <img src="https://img.shields.io/badge/Telegram-@ShidqiCom-18181B?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
   </a>
 </p>
 
@@ -17,7 +17,7 @@ zero to production.
 My interests span **backend engineering, distributed systems, system
 architecture, workflow automation, DevOps, and AI-powered applications**.
 
-- 📍 Medan, Indonesia
+- 📍 Indonesia
 - 🏗️ Backend engineering & system architecture
 - ⚙️ Distributed systems & workflow automation
 - 🤖 AI, NLP & LLM-powered applications
@@ -166,16 +166,8 @@ observable, and reliable**.
     <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 
-  <a href="https://github.com/echobots">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/m-naufal-shidqi/">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://instagram.com/andbukanad">
-    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  <a href="https://t.me/ShidqiCom">
+    <img src="https://img.shields.io/badge/Telegram-@ShidqiCom-18181B?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
   </a>
 </p>
 
