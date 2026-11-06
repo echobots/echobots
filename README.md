@@ -130,16 +130,8 @@ observable, and reliable**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=echobots&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    alt="Naufal's GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=echobots&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img height="180" src="./profile/stats.svg" alt="Naufal's GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
